@@ -5,7 +5,6 @@ a project that uses historical data to feed a machine learning classification mo
 
 Data
 It is a csv file which is  from the Kaggle.com 
-*The data folder contains the heart.csv*
 
 how to use:-
 Run the filename.ipynb
