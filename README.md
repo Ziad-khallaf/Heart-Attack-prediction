@@ -1,6 +1,6 @@
 # Heart-Attack-prediction
 
-Heart Attack Project with Recall 92.3 % using XGBClassifier and Accuracy 87 % using Random Forest Classifier
+Heart Attack Project with Recall 92.3 % using XGBClassifier and Accuracy 87 % using Random Forest Classifier, 
 a project that uses historical data to feed a machine learning classification model in order to prdict the likelihood of heart attacks 
 
 Data
